@@ -1,0 +1,16 @@
+{
+  "name": "oth-minimart",
+  "version": "1.0.0",
+  "description": "OTH 7/24 Minimart Franchise Website",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "start": "npx http-server -p 3000"
+  },
+  "keywords": [
+    "minimart",
+    "franchise",
+    "lao"
+  ],
+  "author": "",
+  "license": "ISC"
+}
